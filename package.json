@@ -142,7 +142,6 @@
     "ruv-swarm": "^1.0.14",
     "uuid": "^13.0.0",
     "validator": "^13.11.0",
-    "validator": "^13.11.0",
     "ws": "^8.18.3",
     "yaml": "^2.8.0",
     "yoctocolors-cjs": "^2.1.3"
