@@ -117,9 +117,9 @@
     "DOCKER_TEST_REPORT.md"
   ],
   "dependencies": {
-    "@anthropic-ai/claude-code": "^2.0.1",
+    "@anthropic-ai/claude-code": "^2.0.31",
     "@anthropic-ai/sdk": "^0.65.0",
-    "@modelcontextprotocol/sdk": "^1.0.4",
+    "@modelcontextprotocol/sdk": "^1.24.0",
     "agentic-flow": "^1.9.4",
     "ajv": "^8.17.1",
     "ajv-errors": "^3.0.0",
@@ -132,7 +132,7 @@
     "figlet": "^1.8.1",
     "flow-nexus": "^0.1.128",
     "fs-extra": "^11.2.0",
-    "glob": "^11.0.3",
+    "glob": "^11.1.0",
     "gradient-string": "^3.0.0",
     "helmet": "^7.1.0",
     "inquirer": "^9.2.12",
@@ -141,6 +141,8 @@
     "p-queue": "^8.1.0",
     "ruv-swarm": "^1.0.14",
     "uuid": "^13.0.0",
+    "validator": "^13.11.0",
+    "validator": "^13.11.0",
     "ws": "^8.18.3",
     "yaml": "^2.8.0",
     "yoctocolors-cjs": "^2.1.3"
