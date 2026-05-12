@@ -1,0 +1,3 @@
+[submodule "claude-flow-wiki"]
+	path = claude-flow-wiki
+	url = https://github.com/hah23255/claude-flow-wiki.git
